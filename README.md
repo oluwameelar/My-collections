@@ -1,8 +1,9 @@
 ## Welcome to Oluwameelar's Territory. Feel free to explore. Everything is allowed
 
-You can use the [editor on GitHub](https://github.com/oluwameelar/My-collections/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can go through some of my codes. They area open to suggestions and modifications
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My Fortress
+Check out my code on [Fraud](https://github.com/oluwameelar/My-collections/blob/master/Fraud/Fraud%20In%20Nigeria.html)
 
 ### Markdown
 
